@@ -42,4 +42,4 @@ logs/
 __pycache__/
 infrastructure/master_files/js
 demos
-/.idea/
+.idea
